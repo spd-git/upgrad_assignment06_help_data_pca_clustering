@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+Icon[^M]
+.ipynb_checkpoints/
+*.log
